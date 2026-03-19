@@ -20,10 +20,9 @@ Retro Prince
 ## 🚀 Projects
 Here are some of my highlighted repositories:
 - [Portfolio Website](https://princeekine.github.io/portfolio)  
-- [Prince Chat Site](https://github.com/PrinceEkine/prince-chat-site)  
+- [Stockbit pro](https://github.com/PrinceEkine/stockbit-pro)  
 - [BitGrowth AI](https://bitgrowth-ai.netlify.app)  
 - [BitBox (Python)](https://github.com/PrinceEkine/bitbox)  
-- [Snake Game (Python)](https://github.com/PrinceEkine/snake-game)  
 
 ---
 
@@ -75,5 +74,5 @@ Here are some of my highlighted repositories:
 
 > *Don’t wait to feel better to do things. You’ll need to do things to feel better.*  
 > I design systems that scale, adapt, and inspire.  
-![Profile Views](https://komarev.com/ghpvc/?username=PrinceEkine&color=blue)
 © 2026 Prince Dagogo Ekine • Designed with intent
+![Profile Views](https://komarev.com/ghpvc/?username=PrinceEkine&color=blue)
