@@ -1,3 +1,7 @@
+# Subheader
+
+Retro Prince
+
 # 👋 Hi, I'm Prince Dagogo Ekine
 
 **Aspiring Software Developer | Fullstack Enthusiast | he/him**
@@ -26,7 +30,7 @@ Here are some of my highlighted repositories:
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, HTML, CSS  
 - **Frameworks:** Flask, React, Node.js  
-- **Databases:** MySQL, MongoDB  
+- **Databases:** MySQL, MSSQL  
 - **Tools:** Git, Docker, Vercel, Netlify  
 
 ---
@@ -54,6 +58,9 @@ Here are some of my highlighted repositories:
 - Exploring AI integrations with Python  
 - Creating a classic Snake Game in Python  
 
+
+## 🐍 Contribution Snake
+![Contribution Snake](https://github.com/PrinceEkine/PrinceEkine/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📫 Connect With Me
@@ -66,4 +73,7 @@ Here are some of my highlighted repositories:
 
 ---
 
+> *Don’t wait to feel better to do things. You’ll need to do things to feel better.*  
+> I design systems that scale, adapt, and inspire.  
 ![Profile Views](https://komarev.com/ghpvc/?username=PrinceEkine&color=blue)
+© 2026 Prince Dagogo Ekine • Designed with intent
