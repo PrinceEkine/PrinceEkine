@@ -1,6 +1,8 @@
 # Subheader
 
 Retro Prince
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Aspiring+Software+Developer;Fullstack+Enthusiast;Learning+before+launching;Code+before+comfort)](https://git.io/typing-svg)
+
 
 # 👋 Hi, I'm Prince Dagogo Ekine
 
@@ -47,7 +49,7 @@ Here are some of my highlighted repositories:
 ---
 
 ## 🎧 Currently Listening
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31rv7crswbplggrg5a3mv6sqh3ce)
 
 ---
 
