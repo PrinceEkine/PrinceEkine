@@ -1,13 +1,9 @@
 # Subheader
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Aspiring+Software+Developer;Fullstack+Enthusiast;Learning+before+launching;Code+before+comfort)](https://git.io/typing-svg)
 
-Retro Prince
 
 # 👋 Hi, I'm Prince Dagogo Ekine
 
-**Aspiring Software Developer | Fullstack Enthusiast | he/him**
-
-*Learning before launching • Code before comfort*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Aspiring+Software+Developer;Fullstack+Enthusiast;Learning+before+launching;Code+before+comfort)](https://git.io/typing-svg)
 
 ---
 
