@@ -56,7 +56,8 @@ Here are some of my highlighted repositories:
 
 
 ## 🐍 Contribution Snake
-![Contribution Snake](https://github.com/PrinceEkine/PrinceEkine/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake Dark](https://princeekine.github.io/PrinceEkine/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## 📫 Connect With Me
