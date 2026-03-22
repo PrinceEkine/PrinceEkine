@@ -43,11 +43,6 @@ Here are some of my highlighted repositories:
 
 ---
 
-## 🎧 Currently Listening
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31rv7crswbplggrg5a3mv6sqh3ce)
-
----
-
 ## 🎯 Currently Working On
 - Building a real-time chat app with WebSockets  
 - Learning TypeScript for scalable frontend development  
