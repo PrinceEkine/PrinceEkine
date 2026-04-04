@@ -10,6 +10,11 @@
 - Interested in open-source collaboration and continuous growth  
 
 ---
+![Now Playing – Blur Dark](https://princeekine-novatorem-five-psi.vercel.app/?background_type=blur_dark&border_color=ffffff)
+
+![Compact Mode](https://princeekine-novatorem-five-psi.vercel.app/?compact=true&background_type=blur_dark&border_color=ffffff)
+
+---
 
 ## 🚀 Projects
 Here are some of my highlighted repositories:
