@@ -50,7 +50,7 @@ Here are some of my highlighted repositories:
 
 ## 🎯 Currently Working On
 - Developing **BitNexus2** a service rendering website  
-- Learning TypeScript for scalable frontend development  
+- Learning Android app development using Kotlin
 - Exploring AI integrations with Python  
 - Creating a classic Snake Game in Python  
 
