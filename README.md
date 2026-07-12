@@ -5,22 +5,9 @@
 ---
 
 ## 🌱 About Me
-- Passionate about learning modern technologies and building real-world applications  
-- Exploring fullstack development with a focus on scalable web solutions  
-- Interested in open-source collaboration and continuous growth  
-
----
-![Now Playing – Blur Dark](https://princeekine-novatorem-five-psi.vercel.app/?background_type=blur_dark&border_color=ffffff)
-
-
----
-
-## 🚀 Projects
-Here are some of my highlighted repositories:
-- [Portfolio Website](https://princeekine.github.io/portfolio)  
-- [Stockbit Pro](https://github.com/PrinceEkine/stockbit-pro)  
-- [BitGrowth AI](https://bitgrowth-ai.netlify.app)  
-- [BitBox (Python)](https://github.com/PrinceEkine/bitbox)  
+- Passionate about learning modern technologies and building real-world applications
+- Exploring fullstack development with a focus on scalable web solutions
+- Interested in open-source collaboration and continuous growth
 
 ---
 
@@ -36,23 +23,27 @@ Here are some of my highlighted repositories:
 
 ---
 
-## ✨ Motto
-*"Code is poetry in motion — I build to learn, and learn to build."*
-
----
-
-## 📊 GitHub Stats
-![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceEkine&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrinceEkine&theme=radical)  
-![Prince's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrinceEkine&theme=radical)
+## 🚀 Projects
+Here are some of my highlighted repositories:
+- [Portfolio Website](https://princeekine.github.io/portfolio)
+- [Stockbit Pro](https://github.com/PrinceEkine/stockbit-pro)
+- [BitGrowth AI](https://bitgrowth-ai.netlify.app)
+- [BitBox (Python)](https://github.com/PrinceEkine/bitbox)
 
 ---
 
 ## 🎯 Currently Working On
-- Developing **BitNexus2** a service rendering website  
+- Developing **BitNexus2**, a service rendering website
 - Learning Android app development using Kotlin
-- Exploring AI integrations with Python  
-- Creating a classic Snake Game in Python  
+- Exploring AI integrations with Python
+- Creating a classic Snake Game in Python
+
+---
+
+## 📊 GitHub Stats
+![Prince's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrinceEkine&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrinceEkine&theme=radical)
+![Prince's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PrinceEkine&theme=radical)
 
 ---
 
@@ -65,11 +56,21 @@ Here are some of my highlighted repositories:
 
 ---
 
+## 🎧 Now Playing
+![Now Playing – Blur Dark](https://princeekine-novatorem-five-psi.vercel.app/?background_type=blur_dark&border_color=ffffff)
+
+---
+
+## ✨ Motto
+*"Code is poetry in motion — I build to learn, and learn to build."*
+
+---
+
 ## 📫 Connect With Me
 <p align="left">
   <a href="mailto:princedagogoekine@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/></a>
-  <a href="https://princeekine.github.io/portfolio"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio"/></a>/
-  <a href="https://princedagogoekine.lovable.app"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio"/></a>
+  <a href="https://princeekine.github.io/portfolio"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio Website"/></a>
+  <a href="https://princedagogoekine.lovable.app"><img src="https://img.icons8.com/color/48/000000/website.png" alt="Lovable Portfolio"/></a>
   <a href="https://linkedin.com/in/prince-dagogo-ekine-93b2993a3"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://twitter.com/DagogoEkine"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
 </p>
@@ -77,8 +78,10 @@ Here are some of my highlighted repositories:
 ---
 
 <p align="center">
-  <i>“Keep building, keep learning — every commit is progress.”</i>  
+  <i>"Keep building, keep learning — every commit is progress."</i>
 </p>
 
-© 2026 Prince Dagogo Ekine • Designed with intent  
-![Profile Views](https://komarev.com/ghpvc/?username=PrinceEkine&color=blue)
+<p align="center">
+  © 2026 Prince Dagogo Ekine • Designed with intent<br/>
+  <img src="https://komarev.com/ghpvc/?username=PrinceEkine&color=blue" alt="Profile Views"/>
+</p>
