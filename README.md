@@ -20,6 +20,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
@@ -34,7 +38,8 @@ Here are some of my highlighted repositories:
 
 ## 🎯 Currently Working On
 - Developing **BitNexus2**, a service rendering website
-- Learning Android app development using Kotlin
+- Learning Android app development using Kotlin and Android Studio
+- Studying AI & Machine Learning fundamentals
 - Exploring AI integrations with Python
 - Creating a classic Snake Game in Python
 
