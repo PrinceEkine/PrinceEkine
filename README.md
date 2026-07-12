@@ -75,7 +75,7 @@ Here are some of my highlighted repositories:
 <p align="left">
   <a href="mailto:princedagogoekine@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/></a>
   <a href="https://princeekine.github.io/portfolio"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfolio Website"/></a>
-  <a href="https://princedagogoekine.lovable.app"><img src="https://img.icons8.com/color/48/000000/website.png" alt="Lovable Portfolio"/></a>
+  <a href="https://princedagogoekine.lovable.app"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Lovable Portfolio"/></a>
   <a href="https://linkedin.com/in/prince-dagogo-ekine-93b2993a3"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://twitter.com/DagogoEkine"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
 </p>
